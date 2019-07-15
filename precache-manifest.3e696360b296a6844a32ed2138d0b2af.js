@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "284019d310b87934afb47ab37c33fed3",
+    "revision": "6c36a2239125865777fbad02a3296883",
     "url": "/tv-series-ratings-app/index.html"
   },
   {
