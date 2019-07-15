@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/tv-series-ratings-app/precache-manifest.33602f3991273c9b303379742a176648.js"
+  "/tv-series-ratings-app/precache-manifest.57009f0c88f6caf93a4d4ddcc99928b5.js"
 );
 
 self.addEventListener('message', (event) => {

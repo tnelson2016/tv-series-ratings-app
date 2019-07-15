@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/tv-series-ratings-app/static/css/main.6d3c6e55.chunk.css",
-    "main.js": "/tv-series-ratings-app/static/js/main.f11e01e5.chunk.js",
-    "main.js.map": "/tv-series-ratings-app/static/js/main.f11e01e5.chunk.js.map",
+    "main.js": "/tv-series-ratings-app/static/js/main.22f806ff.chunk.js",
+    "main.js.map": "/tv-series-ratings-app/static/js/main.22f806ff.chunk.js.map",
     "runtime~main.js": "/tv-series-ratings-app/static/js/runtime~main.661f5021.js",
     "runtime~main.js.map": "/tv-series-ratings-app/static/js/runtime~main.661f5021.js.map",
-    "static/js/2.a509bd87.chunk.js": "/tv-series-ratings-app/static/js/2.a509bd87.chunk.js",
-    "static/js/2.a509bd87.chunk.js.map": "/tv-series-ratings-app/static/js/2.a509bd87.chunk.js.map",
+    "static/js/2.9f79d75d.chunk.js": "/tv-series-ratings-app/static/js/2.9f79d75d.chunk.js",
+    "static/js/2.9f79d75d.chunk.js.map": "/tv-series-ratings-app/static/js/2.9f79d75d.chunk.js.map",
     "index.html": "/tv-series-ratings-app/index.html",
-    "precache-manifest.33602f3991273c9b303379742a176648.js": "/tv-series-ratings-app/precache-manifest.33602f3991273c9b303379742a176648.js",
+    "precache-manifest.57009f0c88f6caf93a4d4ddcc99928b5.js": "/tv-series-ratings-app/precache-manifest.57009f0c88f6caf93a4d4ddcc99928b5.js",
     "service-worker.js": "/tv-series-ratings-app/service-worker.js",
     "static/css/main.6d3c6e55.chunk.css.map": "/tv-series-ratings-app/static/css/main.6d3c6e55.chunk.css.map"
   }
