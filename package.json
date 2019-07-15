@@ -1,7 +1,7 @@
 {
   "name": "tv-series-app",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "https://tnelson2016.github.io/tv-series-ratings-app",
   "dependencies": {
     "react": "^16.8.6",
